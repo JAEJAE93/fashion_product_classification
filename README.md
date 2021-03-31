@@ -4,4 +4,4 @@
 
 ![BERT_classification](http://mccormickml.com/assets/BERT/padding_and_mask.png "BERT_classification")
 
-- Test 결과 95%의 accuracy를 보여줌
+- Test 결과 95.38%의 accuracy를 보여줌
